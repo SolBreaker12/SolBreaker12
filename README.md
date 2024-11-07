@@ -4,6 +4,6 @@
 
 How to reach me:
 <br>
-Email - JBBallard2025@gmail.com
+Email - **JBBallard2025@gmail.com**
 <br>
-Discord - <a href="https://discord.gg/solbreaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="prodcg" height="30" width="40" /></a></p>
+Discord - **solbreaker**
