@@ -4,6 +4,6 @@
 
 How to reach me:
 <br>
-Email - **JBBallard2025@gmail.com**
+**Email** - JBBallard2025@gmail.com
 <br>
-Discord - **solbreaker**
+**Discord** - solbreaker
