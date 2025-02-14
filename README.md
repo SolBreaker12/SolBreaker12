@@ -1,4 +1,4 @@
-<h1>Student developer passionate in robotics & simulation</h1>
+<h1>Student developer in robotics</h1>
 
 How to reach me:
 <br>
